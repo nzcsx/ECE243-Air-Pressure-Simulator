@@ -10,7 +10,7 @@ This does not need to be installed. It is intended to run on the website CPUlate
 - Copy the source code in project.c into the window.
 - Click Compile and Load, then click Contintue. 
 
-## Instruction:
+## Usage
 - Press and release KEY3 to switch the HEX display between P(pressure in Pascal), V(volume in
 cub ic meter), T(temperature in Kelvin) and n(the number of atoms).
 - Press and release KEY2 to increase the value of V, T or n.
