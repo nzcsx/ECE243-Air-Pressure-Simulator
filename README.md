@@ -3,7 +3,7 @@
 This is an air pressure simulator demonstrating the effect of ideal gas law. You can change volume, temperature and the amount of gas particles present. The application will calculate the air pressure, and visually simulate the collision of particles. 
 
 ## Installation
-This does not need to be installed. It is intended to run on the website CPUlater. 
+It does not need to be installed. It is intended to run on the website CPUlater. 
 - Go to website CPUlator.
 - Choose ARMv7 - ARMv7 DE1-SoC, and click go. 
 - Choose language as C near the top. 
