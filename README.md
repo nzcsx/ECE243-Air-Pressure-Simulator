@@ -1,5 +1,4 @@
 # ECE243_Air_Pressure_Simulator
-## Description:
 This is an air pressure simulator demonstrating the effect of ideal gas law. You can change volume, temperature and the amount of gas particles present. The application will calculate the air pressure, and visually simulate the collision of particles. 
 
 ## Installation
